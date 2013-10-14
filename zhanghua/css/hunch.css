@@ -1,0 +1,112 @@
+*{padding: 0;margin:0;}
+a{text-decoration: none;}
+body{text-align: center;}
+
+/*...................header-wrap Begin ......................*/
+#header-wrap{width: 100%;height: 60px;border:1px solid #ccc;}
+#header-wrapKBQY{width: 960px;height: 7px;margin:auto;}
+#header{width: 960px;height: 55px;margin:auto;}
+#logo{width: 95px;height: 54px;display: block;float: left;cursor: pointer;background-image: url("../Images/sprite-v11.png");background-position: 0 -50px;}
+#nav{width: 187px;height: 54px;float: right;}
+#navL{width: 85px;height: 53px;font-size: 16px;color:#000;line-height: 53px; float: left;border: 1px solid #fff;border-bottom: 0px;border-radius: 3px;}
+#navL:hover{background-color:#f2f2f2;border: 1px solid #ccc;border-bottom: 0px;}
+#navC{width: auto;height: auto;float: right;position: relative;}
+.nvaCclass{background-color: #fff;border:1px solid #ccc;border-bottom: 0px;}
+#navR{width: 85px;height: 54px;font-size: 16px;color:#000;line-height: 54px;border-radius: 3px;}
+#navR:hover{background-color: #fff}
+#navCD{position: absolute;width: 286px;height: 233px;background-color: #fff;right:0;border:1px solid #ccc;top: 54px;border-top: 0px;display: none;}
+#navCD1KBQY{width: 250px;margin:auto;height: 10px;}
+#navCD1{width: 250px;height: 36px;margin:auto;}
+#navCD1L{float: left;width: 118px;height: 36px;background-image: url("../Images/connect-facebook-twitter.spr.png");cursor: pointer;}
+#navCD1L:hover{background-position: 0 -36px;}
+#navCD1R{float: right;width: 118px;height: 36px;background-image: url("../Images/connect-facebook-twitter.spr.png");background-position: -118px 0;cursor: pointer;}
+#navCD1R:hover{background-position: -118px -36px;}
+#navCD2{width: 250px;height: 24px;margin:auto;line-height: 24px;font-size: 12px;color: #000;text-align: left;}
+#navCD3{width: 250px;height: 24px;border-color: 1px solid #ccc;}
+#navCD4{width: 250px;height: 24px;margin:auto;line-height: 24px;font-size: 12px;color: #000;text-align: left;}
+#navCD5{width: 250px;height: 24px;border-color: 1px solid #ccc;}
+#navCD6{width: 250px;height: 36px;margin:auto;text-align: center;line-height: 36px;}
+#navCD61{width: 60px;height: 28px;display:block;float: left;background-color:#73c6ef;font-size: 12px;border-radius: 3px;}
+#navCD61:hover{background-color:  #2ab3f8}
+#navCD62{width: 90px;height: 18px;float: right;font-size: 12px;}
+#navCD63{width: 15px;height: 15px;float: right;margin-top: 10px;}
+#navCD7{width: 250px;height: 18px;font-size: 12px;line-height: 18px;color:#000;text-align: left;margin:auto;}
+#navCD8{width:250px;height: 18px;font-size: 12px;line-height: 18px;color:#000;text-align: left;margin:auto;}
+/*...................header-wrap End ......................*/
+
+/*...................header-wrap Begin ......................*/
+#homepage{width: 100%;height: 395px;background-color:#f2f2f2; }
+#container{width: 1005px;height: 395px;margin:auto;background-image: url("../Images/home-tastegraph.png");}
+#containerL{width: 500px;height: 104px;float: left;}
+#containerKBQU{width: 1005px;height: 44px;}
+.containerLstyle{width: 450px;height:20px;color:#000;font-size: 18px;line-height: 20px;text-align: left;font-weight: bold;}
+#containerLaL{width: 400px;height: 30px;font-size: 16px;line-height: 30px;color: rgb(50, 160, 235);cursor: pointer;display: block;text-align: left;}
+#containerLaL:hover{color: rgb(69, 143, 206);}
+#containerRKBQY{width: 100px;height: 171px;float: right;}
+#containerRa{width: 202px;height: 171px;display: block;background-image: url("../Images/home-tastegraph-bubble.png");float: right;}
+/*...................header-wrap End ......................*/
+
+/*...................beta Begin ......................*/
+#beta{width: 100%;height: 252px;}
+#betaC{width: 960px;height: 252px;margin:auto;}
+#betaCT{width: 960px;height: 46px;font-size: 16px;line-height: 46px;color: #000;text-align: left;font-weight: bold;}
+#betaCD{width: 960px;height: 180px;}
+.betaCDstyle0{width: 180px;height: 190px;float: left;}
+.betaCDstyle1{width: 150px;height: 190px;float: left;}
+.betaCDstyle11{width: 150px;height: 90px;}
+.betaCDstyle12{width: 150px;height: 28px;font-size: 14px;line-height: 28px;color: rgb(50, 160, 235);cursor: pointer;text-align: left;}
+.betaCDstyle12:hover{color: rgb(69, 143, 206);}
+.betaCDstyle13{width: 150px;height: 72px;}
+.betaCDstyle131{width: 150px;height: 18px;font-size: 12px;line-height: 18px;color: #000;text-align: left;}
+#betaCD1pic{background-image: url("../Images/app1.png");}
+#betaCD2pic{background-image: url("../Images/app2.png");}
+#betaCD3pic{background-image: url("../Images/app3.png");}
+#betaCD4pic{background-image: url("../Images/app4.png");}
+#betaCD5pic{background-image: url("../Images/app5.png");}
+/*...................beta End ......................*/
+
+/*...................below Begin ......................*/
+#below{width: 100%;height: 140px;border-bottom: 1px solid #ccc;}
+#belowC{width: 960px;height: 150px;margin:auto;}
+#belowCKBQYT{width: 960px;height: 20px;}
+#belowCKBQYL{width: 20px;height: 114px;float: left;}
+#belowCL{width: 258px;height: 114px;float: left;border-right: 1px solid #ccc;}
+#belowCLpic{width:135px;height: 50px;background-image: url("../Images/ebay.png");float: left;}
+#belowCLR{width: 102px;height: 57px;float: left;}
+#belowCLRT{width: 102px;height: 40px;font-size: 14px;color:#000;text-align: left;}
+#belowCLRD{width: 102px;height: 17px;line-height:  17px;font-size: 12px;color: #888;}
+#belowCM{width: 10px;height: 100px;float: left;}
+#belowCR{width: 250px;height: 114px;float: left;}
+#belowCRT{width: 143px;height: 25px;font-size: 18px;line-height: 25px;color: #000;text-align: left;}
+#belowCRD{width: 220px;height: 30px;}
+#belowCRD1{width: 156px;height: 30px;background-image: url("../Images/hunch1.png");cursor: pointer;}
+#belowCRD2{width: 90px;height: 30px;background-image: url("../Images/hunch2.png");display: none;cursor: pointer;}
+#belowCRD3{width: 144px;height: 30px;background-image: url("../Images/hunch3.png");display: none;cursor: pointer;}
+#belowCRD4{width: 214px;height: 30px;background-image: url("../Images/hunch4.png");display: none;cursor: pointer;}
+#belowCRD5{width: 128px;height: 30px;background-image: url("../Images/hunch5.png");display: none;cursor: pointer;}
+#belowCRD6{width: 141px;height: 30px;background-image: url("../Images/hunch6.png");display: none;cursor: pointer;}
+#belowCRD7{width: 96px;height: 30px;background-image: url("../Images/hunch7.png");display: none;cursor: pointer;}
+/*...................below End ......................*/
+
+/*...................footer-wrap Begin ......................*/
+#footer-wrap{width: 100%;height: 108px;margin-top: 10px;}
+#footer{width: 1000px;height: 108px;margin:auto;}
+#sections{width: 650px;height: 108px;float: left;}
+#notice_prose{width: 300px;height: 108px;float: right;}
+.sectionsstyle1{width: 160px;height: 108px;float: left;border-right: 1px solid #ccc;}
+.sectionsstyle12{width: 160px;height: 20px;font-size: 15px;line-height: 20px;text-align: center;color: #000;}
+.sectionsstyle13{width: 160px;height: 80px;}
+.sectionsstyle131{width: 160px;height: 18px;font-size: 13px;line-height: 18px;text-align: center;color: rgb(50, 160, 235);cursor: pointer;}
+.sectionsstyle131:hover{color: rgb(69, 143, 206);}
+#notice_proseT{width: 340px;height: 36px;}
+#notice_proseKBQY{width: 340px;height: 20px;}
+#notice_proseD{width: 340px;height: 36px;}
+#notice_proseTT{width: 340px;height: 18px;line-height: 18px;color: #666;font-size: 12px;text-align: left;}
+#notice_proseTD{width: 340px;height: 18px;}
+#notice_proseTDL{width: 240px;height: 18px;line-height: 18px;font-size: 12px;float: left;color: #666;text-align: left;}
+#notice_proseTDR{width: 95px;height: 18px;line-height: 18px;color:rgb(50, 160, 235);font-size: 12px;display: block;float: left;text-align: left;}
+#notice_proseTDR:hover{color: rgb(69, 143, 206);}
+#notice_proseDT{width: 200px;height: 18px;line-height: 18px;font-size: 13px;color: #000;text-align: left;}
+#notice_proseDD{width: 100px;height: 18px;line-height: 18px;font-size: 13px;color:rgb(50, 160, 235);text-align: left;display: block;}
+#notice_proseDD:hover{color: rgb(69, 143, 206);}
+/*...................footer-wrap End ......................*/
